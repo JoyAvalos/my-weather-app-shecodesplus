@@ -27,7 +27,7 @@ li {
   margin: 30px auto;
   border-radius: 10px;
   max-width: 800px;
-  background-image: url("file:///Users/joy/Documents/SheCodesPlus/Week4/WeatherApp/media/chalkboard.jpg");
+  background-image: url("/media/chalkboard.jpg");
 }
 .temperature {
   font-size: 64px;
